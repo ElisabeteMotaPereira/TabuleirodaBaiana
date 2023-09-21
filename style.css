@@ -39,7 +39,7 @@ html {
 }
 
 .Logo h1 {
-  color:rgb(29, 223, 94);
+  color: rgb(29, 223, 94);
   font-size: 30px;
   }
   
@@ -84,7 +84,7 @@ html {
 }
 
 .first-section h1 {
-  color:#0c0c0c;
+  color: #0c0c0c;
   font-size: 3rem;
   text-transform: uppercase;
   margin-bottom: 8rem;
@@ -148,7 +148,7 @@ html {
 
 .cardapio h2 {
   font-size: 5rem;
-  color:rgb(9, 150, 44);
+  color: rgb(9, 150, 44);
   text-transform: uppercase;
 }
 
@@ -181,14 +181,14 @@ html {
 .itens-cardapio .info h4 {
   font-size: 1.4rem;
   text-transform: uppercase;
-  margin-bottom: 0,6rem;
+  margin-bottom: 0.6rem;
   display: grid;
   justify-content: center;
   align-items:center;
 }
 
 .itens-cardapio .info h4 span {
-  font-size: 1,6rem;
+  font-size: 1.6rem;
   color: #0c0c0c;
   margin-left: 1.5rem;
   text-decoration: underline;  
